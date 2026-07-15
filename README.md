@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0x2u/0x2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.png" alt="Matthieu Almiron — Independent Full Stack Software Engineer" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+Self-taught full stack engineer. I build things end to end and care about systems that hold up in production. Off the clock, I spend my time on quantitative finance and open source, mostly for the pleasure of the problem.
+
+<br/>
+
+<div align="center">
+
+📮 &nbsp; [contact@almiron.eu](mailto:contact@almiron.eu)
+
+</div>
